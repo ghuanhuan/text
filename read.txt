@@ -1,0 +1,10 @@
+{   
+    "lef_url":"img/cont1_1.jpg",
+    "title":"韩国爱敬 Age20＇s 爱纪二十补水精华套装"
+	"url":"img/bty_1.jpg",
+	"tip":"韩国爱敬 Age20＇s 爱纪二十补水精华套装",
+	"tip_te":"韩国·记忆水润的秘密",
+	"price":"59",
+	"price_del":"￥89",
+	"price_zk":"6.5折"
+}
